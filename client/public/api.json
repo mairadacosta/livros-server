@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "nome": "O Código Da Vinci",
+        "autor": "Dan Brown",
+        "capa": "https://m.media-amazon.com/images/I/91QSDmqQdaL._AC_UF1000,1000_QL80_.jpg",
+        "ano_lancamento": 2003,
+        "genero": "romance"
+    },
+    {
+        "id": 2,
+        "nome": "Três Metros Acima do Céu",
+        "autor": "Federico Moccia",
+        "capa": "https://br.web.img2.acsta.net/pictures/20/04/15/13/10/4843574.jpg",
+        "ano_lancamento": 1992,
+        "genero": "romance"
+    },
+    {
+        "id": 3,
+        "nome": "Os Mercenários",
+        "autor": "Andy McNab",
+        "capa": "https://br.web.img3.acsta.net/pictures/14/07/10/20/37/421670.jpg",
+        "ano_lancamento": 2007,
+        "genero": "acao"
+    },
+    {
+        "id": 4,
+        "nome": "Pegando Fogo",
+        "autor": "Andy McNab",
+        "capa": "https://br.web.img3.acsta.net/pictures/15/09/18/23/05/058013.jpg",
+        "ano_lancamento": 2008,
+        "genero": "acao"
+    },
+    {
+        "id": 5,
+        "nome": "O Diário de Bridget Jones",
+        "autor": "Helen Fielding",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvSfYuCWyT5wkUKOVvYbBQgtRhXuVSw5pJg&s",
+        "ano_lancamento": 1996,
+        "genero": "comedia"
+    },
+    {
+        "id": 6,
+        "nome": "Meu Malvado Favorito",
+        "autor": "Sergio Pablos",
+        "capa": "https://ingresso-a.akamaihd.net/prd/img/movie/meu-malvado-favorito-4/4d756249-3b88-4b59-baa2-527f5e3d4c3e.webp",
+        "ano_lancamento": 2010,
+        "genero": "comedia"
+    },
+    {
+        "id": 7,
+        "nome": "Jurassic Park",
+        "autor": "Michael Crichton",
+        "capa": "https://m.media-amazon.com/images/I/A1nnSXofNaL._AC_UF1000,1000_QL80_.jpg",
+        "ano_lancamento": 1990,
+        "genero": "acao"
+    },
+    {
+        "id": 8,
+        "nome": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "capa": "https://m.media-amazon.com/images/I/719esIW3D7L._AC_UF1000,1000_QL80_.jpg",
+        "ano_lancamento": 1813,
+        "genero": "romance"
+    },
+    {
+        "id": 9,
+        "nome": "As Aventuras de Sherlock Holmes",
+        "autor": "Arthur Conan Doyle",
+        "capa": "https://m.media-amazon.com/images/I/613LTnr4lgL._AC_UF1000,1000_QL80_.jpg",
+        "ano_lancamento": 1892,
+        "genero": "acao"
+    },
+    {
+        "id": 10,
+        "nome": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "capa": "https://m.media-amazon.com/images/I/91BsZhxCRjL._AC_UF1000,1000_QL80_.jpg",
+        "ano_lancamento": 1945,
+        "genero": "acao"
+    },
+    {
+        "id": 11,
+        "nome": "A Menina que Roubava Livros",
+        "autor": "Markus Zusak",
+        "capa": "https://m.media-amazon.com/images/I/61L+4OBhm-L._AC_UF1000,1000_QL80_.jpg",
+        "ano_lancamento": 2005,
+        "genero": "romance"
+    },
+    {
+        "id": 12,
+        "nome": "O Poderoso Chefão",
+        "autor": "Mario Puzo",
+        "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/90/93/20/20120876.jpg",
+        "ano_lancamento": 1969,
+        "genero": "acao"
+    },
+    {
+        "id": 13,
+        "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+        "autor": "J.R.R. Tolkien",
+        "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/92/91/32/20224832.jpg",
+        "ano_lancamento": 1954,
+        "genero": "acao"
+    },
+    {
+        "id": 14,
+        "nome": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8l2DG_YMf7_y4_eOCyfMdvaAzdFhfPoDGTw&s",
+        "ano_lancamento": 1997,
+        "genero": "acao"
+    },
+    {
+        "id": 15,
+        "nome": "A Culpa é das Estrelas",
+        "autor": "John Green",
+        "capa": "https://m.media-amazon.com/images/I/51M9IbBqxCL._AC_UF1000,1000_QL80_.jpg",
+        "ano_lancamento": 2012,
+        "genero": "romance"
+    },
+    {
+        "id": 16,
+        "nome": "A Arte da Guerra",
+        "autor": "Sun Tzu",
+        "capa": "https://m.media-amazon.com/images/I/51Fe45NGwkL._AC_UF1000,1000_QL80_.jpg",
+        "ano_lancamento": "5th Century BC",
+        "genero": "acao"
+    },
+    {
+        "id": 17,
+        "nome": "O Senhor dos Anéis: As Duas Torres",
+        "autor": "J.R.R. Tolkien",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/thumb/5/59/The_Lord_of_the_Rings_The_Two_Towers.jpg/250px-The_Lord_of_the_Rings_The_Two_Towers.jpg",
+        "ano_lancamento": 1954,
+        "genero": "acao"
+    },
+    {
+        "id": 18,
+        "nome": "Divertidamente",
+        "autor": "Pixar Animation Studios",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ68SmlmX4ol4-9zsGvDCqUd4PHJeKzfTgHCg&s",
+        "ano_lancamento": 2015,
+        "genero": "comedia"
+    },
+    {
+        "id": 19,
+        "nome": "De Repente é Amor",
+        "autor": "Glenn Gordon Caron",
+        "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/93/28/13/20247270.jpg",
+        "ano_lancamento": 2005,
+        "genero": "comedia"
+    },
+    {
+        "id": 20,
+        "nome": "Se Beber, Não Case!",
+        "autor": "Jon Lucas e Scott Moore",
+        "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/87/29/37/19874003.jpg",
+        "ano_lancamento": 2009,
+        "genero": "comedia"
+    },
+    {
+        "id": 21,
+        "nome": "Missão Impossível: Protocolo Fantasma",
+        "autor": "Tom Cruise",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxKO_eqqwHYjtj7qEG3cEOfz3dPQCZAwOArw&s",
+        "ano_lancamento": 2011,
+        "genero": "acao"
+    },
+    {
+        "id": 22,
+        "nome": "Homem de Ferro",
+        "autor": "Stan Lee",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg",
+        "ano_lancamento": 2008,
+        "genero": "acao"
+    },
+    {
+        "id": 23,
+        "nome": "A Proposta",
+        "autor": "Anne Fletcher",
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/0/02/The_Proposal.jpg",
+        "ano_lancamento": 2009,
+        "genero": "comedia"
+    },
+    {
+        "id": 24,
+        "nome": "Como Eu Era Antes de Você",
+        "autor": "Jojo Moyes",
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQKtnmTP7n4tC28TKzCfM1qwJyjsnRCmOCRg&s",
+        "ano_lancamento": 2016,
+        "genero": "romance"
+    },
+    {
+        "id": 25,
+        "nome": "Jumanji: Bem-Vindo à Selva",
+        "autor": "Jake Kasdan",
+        "capa": "https://br.web.img2.acsta.net/pictures/17/11/28/19/03/5043910.jpg",
+        "ano_lancamento": 2017,
+        "genero": "acao"
+    }
+]

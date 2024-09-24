@@ -1,0 +1,43 @@
+body{
+    align-items: center;
+    justify-content: center;
+}
+.app-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.card{
+    text-align: center;
+    width: 400px;
+    border-radius: 10px;
+}
+.divCard{
+    
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+.listaAnos{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+.listaAnos li{
+    margin-left: 20px;
+}
+.div1{
+    text-align: center;
+}
+.livrosCard{
+    border-top: solid;
+    padding-top: 10px;
+    border-width: 0.2px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+}
